@@ -16,7 +16,7 @@ function AuthPage() {
                     <AuthForm />
 
                     <Box textAlign={"center"}>
-                    Get the app.
+                        Get the app.
                     </Box>
 
                     <Flex gap={5} justifyContent={"center"}>
